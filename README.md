@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-0bby
 - 👀 I’m interested in coding, basketball, anime, movies, and games.
 
-- MY STACK
+- MY STACK:
 - 🌱 HTML, 🎨 CSS,
 - 🏎 JavaScript,
 - ✡️ React, 🎨 TailwindCSS,
