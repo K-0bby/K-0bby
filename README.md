@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @K-0bby
-- 👀 I’m interested in coding, basketball, anime, movies, and games..... 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Tailwind, C++
+- 👀 I’m interested in coding, basketball, anime, movies, and games.
+
+- MY STACK
+- 🌱 HTML, 🎨 CSS,
+- 🏎 JavaScript,
+- ✡️ React, 🎨 TailwindCSS,
+- 🔷 C++
+
+  
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @HoenyefiaGideon on Twitter(X)
 
