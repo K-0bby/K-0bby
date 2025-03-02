@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated front-end developer and aspiring software engineer and cybersecurity engineer with a strong foundation in HTML, CSS, JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS. I'm proficient in Git and WordPress and enjoy building modern, user-friendly web applications.<br><br>Beyond coding, I'm a basketball enthusiast, avid reader, movie lover, and fitness enthusiast. I find balance in my life by combining my passion for technology with my hobbies.<br><br>I'm comfortable working both independently and collaboratively, and I'm always eager to learn new skills and technologies. Let's build something amazing together!
+I'm a dedicated front-end developer, aspiring software engineer, and cybersecurity engineer with a strong foundation in HTML, CSS, JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS. I'm proficient in Git and WordPress and enjoy building modern, user-friendly web applications.<br><br>Beyond coding, I'm a basketball enthusiast, avid reader, movie lover, and fitness enthusiast. I find balance in my life by combining my passion for technology with my hobbies.<br><br>I'm comfortable working both independently and collaboratively, and I'm always eager to learn new skills and technologies. Let's build something amazing together!
 
 
 ## 🌐 Socials:
