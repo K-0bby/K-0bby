@@ -6,6 +6,7 @@ If an idea interests me, I’ll explore it, prototype it, and turn it into somet
 My main stack revolves around React, Next.js, TypeScript, and Tailwind, but I’m not confined to any single domain. I like moving between interfaces, systems, mobile development, and even hacking and cybersecurity when I want to sharpen my edge.
 
 Outside of coding, you’ll probably find me:
+
 🏀 On the basketball court
 🛠️ Building small experiments and passion projects
 📚 Diving into new ideas to stay inspired
