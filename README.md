@@ -1,10 +1,10 @@
-Hey there!😎
+Hey there! 😎
 
-I’m Kobby, a frontend developer and programmer who loves building anything that sparks my curiosity.
+I’m Gideon, a frontend developer and programmer who loves building anything that sparks my curiosity.
 
 If an idea grabs my attention, I’ll explore it, prototype it, and bring it to life. I enjoy working across different technologies, experimenting with new concepts, and pushing myself to create things that feel sharp, intuitive, and purposeful.
 
-My main stack revolves around React, Next.js, TypeScript, and Tailwind, but I’m not limited to any single domain. I move comfortably between interfaces, systems, mobile development, and even hacking and cybersecurity whenever I want to sharpen my edge.
+My primary stack consists of React, Next.js, TypeScript, and Tailwind, but I’m not limited to any single domain. I move comfortably between interfaces, systems, mobile development, and even hacking and cybersecurity whenever I want to sharpen my edge.
 
 Outside of coding, you’ll probably find me:
 
