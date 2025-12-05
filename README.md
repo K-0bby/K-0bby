@@ -1,17 +1,20 @@
-# Hey there!
-I’m Kobby — a frontend developer and programmer who loves building anything that sparks my curiosity.
+Hey there!
 
-If an idea interests me, I’ll explore it, prototype it, and turn it into something real. I enjoy working across different technologies, experimenting with new concepts, and pushing myself to create things that feel sharp, intuitive, and purposeful.
+I’m Kobby, a frontend developer and programmer who loves building anything that sparks my curiosity.
 
-My main stack revolves around React, Next.js, TypeScript, and Tailwind, but I’m not confined to any single domain. I like moving between interfaces, systems, mobile development, and even hacking and cybersecurity when I want to sharpen my edge.
+If an idea grabs my attention, I’ll explore it, prototype it, and bring it to life. I enjoy working across different technologies, experimenting with new concepts, and pushing myself to create things that feel sharp, intuitive, and purposeful.
+
+My main stack revolves around React, Next.js, TypeScript, and Tailwind, but I’m not limited to any single domain. I move comfortably between interfaces, systems, mobile development, and even hacking and cybersecurity whenever I want to sharpen my edge.
 
 Outside of coding, you’ll probably find me:
 
 🏀 On the basketball court
+
 🛠️ Building small experiments and passion projects
+
 📚 Diving into new ideas to stay inspired
 
-I’ve built a range of public and private projects, and I’m always chasing the next challenge that keeps me growing.
+I’ve built a mix of public and private projects, and I’m always chasing the next challenge that keeps me growing.
 
 If you want to connect or collaborate, I’m always open. Let’s create something exceptional. 🚀
 
