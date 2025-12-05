@@ -1,5 +1,18 @@
-# 💫 About Me:
-😎 Hey there, I’m Kobby<br>I’m not just a developer or programmer—I’m a creator, a problem solver, and a tech enthusiast with an insatiable curiosity. Coding isn’t just my career; it’s my playground. I thrive on turning abstract ideas into sleek, functional, and impactful solutions.<br><br>A Few Things About Me:<br>🔭 Driven by Curiosity – Always learning, always exploring. If there’s a boundary, I’ll find a way to break it.<br>💻 Clean Code Advocate – Code should be clear, efficient, and beautiful like poetry.<br>💡 Purposeful Coding – Every line of code I write has meaning—and a hint of personality.<br>🛠️ Builder’s Mentality – From scalable software to passion projects, I create solutions that make a lasting impact.<br>🔒 Hacking & Cybersecurity Enthusiast – Whether it’s ethical hacking or safeguarding systems, I’m passionate about exploring the intricacies of cybersecurity and keeping the digital world secure.<br><br>Beyond the Code:<br>When I’m not immersed in a programming language or uncovering vulnerabilities, you’ll find me:<br>🏀 On the court, sinking three-pointers and perfecting my game.<br>🔧 Experimenting with innovative side projects.<br>📖 Reading or exploring new ideas to stay inspired.<br><br>At my core, I’m all about curiosity, growth, and leaving everything better than I found it. Let’s connect, collaborate, and build something extraordinary. 🚀
+# Hey there!
+I’m Kobby — a frontend developer and programmer who loves building anything that sparks my curiosity.
+
+If an idea interests me, I’ll explore it, prototype it, and turn it into something real. I enjoy working across different technologies, experimenting with new concepts, and pushing myself to create things that feel sharp, intuitive, and purposeful.
+
+My main stack revolves around React, Next.js, TypeScript, and Tailwind, but I’m not confined to any single domain. I like moving between interfaces, systems, mobile development, and even hacking and cybersecurity when I want to sharpen my edge.
+
+Outside of coding, you’ll probably find me:
+🏀 On the basketball court
+🛠️ Building small experiments and passion projects
+📚 Diving into new ideas to stay inspired
+
+I’ve built a range of public and private projects, and I’m always chasing the next challenge that keeps me growing.
+
+If you want to connect or collaborate, I’m always open. Let’s create something exceptional. 🚀
 
 
 ## 🌐 Socials:
