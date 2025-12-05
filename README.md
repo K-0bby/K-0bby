@@ -1,4 +1,4 @@
-Hey there!
+Hey there!😎
 
 I’m Kobby, a frontend developer and programmer who loves building anything that sparks my curiosity.
 
