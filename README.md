@@ -19,6 +19,9 @@ I’ve built a mix of public and private projects, and I’m always chasing the 
 If you want to connect or collaborate, I’m always open. Let’s create something exceptional. 🚀
 
 
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gideon-hoenyefia-74a93a233/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HoenyefiaGideon) 
 
@@ -27,7 +30,5 @@ If you want to connect or collaborate, I’m always open. Let’s create somethi
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=K-0bby&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
