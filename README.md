@@ -1,6 +1,6 @@
 Hey there! 😎
 
-I’m Gideon, a frontend developer and programmer who loves building anything that sparks my curiosity.
+I'm Gideon, a software engineer focused on frontend development. I enjoy building projects that interest me.
 
 If an idea grabs my attention, I’ll explore it, prototype it, and bring it to life. I enjoy working across different technologies, experimenting with new concepts, and pushing myself to create things that feel sharp, intuitive, and purposeful.
 
